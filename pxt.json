@@ -10,8 +10,8 @@
         "main.ts",
         "README.md",
 		"demo.md",
-		"_locales/zh-cn/demo.md",
-		"_locales/de-de/demo.md"
+		"_locales/zh-CN/demo.md",
+		"_locales/de-DE/demo.md"
     ],
     "testFiles": [
         "test.ts"

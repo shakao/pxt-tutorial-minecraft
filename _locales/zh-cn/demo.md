@@ -6,7 +6,7 @@
 
 ＃＃ 第二步
 
-添加“ || player：on chat命令||”块，并将命令更改为** text **。
+添加“ || player：on chat command||”块，并将命令更改为** text **。
 
 ```blocks
 player.onChat（“ text”，function（）{
