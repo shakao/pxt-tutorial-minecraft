@@ -22,7 +22,6 @@ player.onChat("text", function () {
     mobs.spawn(COW, pos(0, 0, 0))
 })
 ```
-`
 
 ## Step Four
 
